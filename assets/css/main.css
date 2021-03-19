@@ -4137,6 +4137,8 @@
 			visibility: hidden;
 			width: 100%;
 			z-index: 0;
+			
+			object-fit: fill;
 		}
 
 			.banner > article:before {
@@ -4163,7 +4165,8 @@
 				display: inline-block;
 				vertical-align: middle;
 				z-index: 1;
-	
+
+				
 			}
 
 				.banner > article .inner > :last-child {
@@ -4174,7 +4177,8 @@
 				font-size: 7rem;
 				margin-bottom: 0;
 				color: #FFF;
-				font-weight: 300;
+				font-weight: 250;
+				opacity: 0;
 			}
 
 				.banner > article h2:after {
