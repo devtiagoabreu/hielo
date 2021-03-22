@@ -25,25 +25,24 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://tableless.com.br/css-3-novo-mundo-de-possibilidades/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [PHP7](https://www.php.net/manual/pt_BR/migration70.new-features.php)
 
 ## 💻 Projeto
 
-O Move.it é uma aplicação do tipo pomodoro gaming, unindo foco, saúde laboral e competitividade💜
+Um exemplo de site responsivo💜
 
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout](https://www.figma.com/file/mK0RZ4IPHDklCywzoEIwdJ/Move.it-1.0)
+- [Layout](https://www.figma.com/file/mK0RZ4IPHDklCywzoEIwdJ/)
 
 ## 🧠 Agradecimento
 
-A aplicação foi publicada durante a 4ª semana Next Level Week e serviu para meus estudos nas tecnologias acima citadas.
-Pretendo criar novos projetos utilizando esta aplicação como base, deste já agradeço a Rocketseat e todos os seus colaboradores.
+Agradeço o Irmão do Jorel e a Lara.
 
 
 ## :memo: Licença
