@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Move.it" src=".github/moveit.png" width="100%">
+  <img alt="DGB COMEX" src=".github/dgbcomex.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
