@@ -38,11 +38,11 @@ Um exemplo de site responsivo💜
 
 Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout](https://www.figma.com/file/mK0RZ4IPHDklCywzoEIwdJ/)
+- [Layout](https://www.figma.com/file/fiFW1wyh55fqEQSj0Dyzid/hielo?node-id=0%3A1)
 
 ## 🧠 Agradecimento
 
-Agradeço o Irmão do Jorel e a Lara.
+A minha querida família (Esposa , Filhas, Sogro e Sogra).
 
 
 ## :memo: Licença
